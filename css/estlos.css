@@ -1,0 +1,15 @@
+/*un comentario en css*/
+body {background-color: grey;}
+h1 {background-color: black;}
+h2 {background-color: black;}
+h3 {background-color: black;}
+
+/*
+ANATOMIA DE CSS
+selector {
+    ptopiedad:valor;
+    propiedad:valor;
+
+}
+*/
+/* selectores por etiqueta HTML /*
